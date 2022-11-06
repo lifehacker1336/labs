@@ -1,0 +1,16 @@
+VTP Version capable             : 1 to 2
+VTP version running             : 2
+VTP Domain Name                 : Cisco
+VTP Pruning Mode                : Disabled
+VTP Traps Generation            : Disabled
+Device ID                       : 0060.2FDA.2A00
+Configuration last modified by 0.0.0.0 at 3-1-93 02:22:28
+
+Feature VLAN : 
+--------------
+VTP Operating Mode                : Client
+Maximum VLANs supported locally   : 255
+Number of existing VLANs          : 13
+Configuration Revision            : 15
+MD5 digest                        : 0x64 0x79 0xED 0x8F 0x25 0x7B 0x9B 0xC7 
+                                    0x09 0xB0 0xED 0x30 0x0E 0xCD 0xE3 0xB8 
